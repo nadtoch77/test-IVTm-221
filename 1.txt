@@ -1,2 +1,4 @@
 line 1 from remote rep
 line 2 from remote rep
+line 3 from remote
+line 4 from remote
