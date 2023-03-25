@@ -1,5 +1,6 @@
 line 1 from remote rep
 line 2 from remote rep
 line 3 from branch2
-line 4 from local
+line 4 from remote
 line 5 from local
+line 5 from remote
